@@ -1,0 +1,6 @@
+{
+  "name": "Sanctuary Church Planner",
+  "description": "A modern Planning Center-inspired church management platform for volunteer scheduling, service run sheets, sermon archives, attendance tracking, and automated reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
